@@ -1,8 +1,7 @@
 
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Erivelton Mendes&fontSize=70&fontColor=fff&animation=twinkling&fontaligny=35"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Erivelton+Mendes&fontSize=60&fontColor=fff&animation=twinkling&fontaligny=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=60&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -48,6 +47,6 @@ Eu realmente acredito no poder da boa Comunicação, da Tecnologia e da Educaç�
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eriveltonn}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer"/>
 
 
